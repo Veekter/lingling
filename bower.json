@@ -1,0 +1,13 @@
+{
+  "name": "lingling",
+  "description": "Todo App",
+  "main": "server.js",
+  "authors": [
+    "Victor Muriithi"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
