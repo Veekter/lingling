@@ -11,7 +11,7 @@ var index = require('./routes/index');
 var todos = require('./routes/todos');
 
 var app = express();
-var port = process.env.PORT || 3050;
+var port = process.env.PORT || 3000;
 
 //my middleware
 app.use(bodyParser.json());
